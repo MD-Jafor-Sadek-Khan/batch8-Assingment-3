@@ -108,4 +108,11 @@ hr
     width: 50%;
   }
 
+  .btn:hover
+  {
+    border: 1px solid #F85559 !important;
+    background-color: white !important;
+    color: #F85559 !important;
+  }
+
 
